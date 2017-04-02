@@ -1,0 +1,4 @@
+node_modules/
+./gena_templates/
+.idea/
+gena.config.js
